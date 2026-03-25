@@ -6,7 +6,6 @@ A production-ready Kubernetes cluster on AWS EKS with complete automation, GitOp
 
 This project deploys a containerized 2048 game application on AWS EKS with:
 
-![2048 Game Application](meta/apple-touch-startup-image-640x1096.png)
 - ✅ Fully automated infrastructure deployment (~15 minutes)
 - ✅ GitOps with ArgoCD
 - ✅ Automatic SSL certificates (Let's Encrypt)
