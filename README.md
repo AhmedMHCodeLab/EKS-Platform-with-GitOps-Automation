@@ -1,4 +1,4 @@
-# EKS Deployment Project
+# EKS Platform with GitOps Automation
 
 A production-ready Kubernetes cluster on AWS EKS with complete automation, GitOps, monitoring, and security scanning.
 
